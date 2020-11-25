@@ -161,7 +161,7 @@ span.bp3-icon-small.bp3-icon-star {
 }
 .checkmark {
     background: #35313a;
-    border: 1px solid #35313a;
+    border: 1px solid #FFFAFA;
 }
 code{
     color: #afff7a;
@@ -170,10 +170,10 @@ code{
     padding: .1em .3em;
 }
 .check-container input:checked ~ .checkmark {
-    background: #FFE37D;
+    background: #35313a;
 }
 .check-container input:checked ~ .checkmark:after {
-    border-color: #00263B;
+    border-color: #FFFAFA;
 }
 .rm-reference-item {
     margin-top: 8px;
