@@ -127,6 +127,7 @@ span.bp3-icon-small.bp3-icon-star {
     padding: 10px;
     border-radius: 2px;
     line-height: 1.3em;
+    color: #000000;
 }
 .kanban-title {
     text-align: center;
